@@ -16,7 +16,7 @@ const lateGang = {
 };
 
 const secretKey = {
-    isOpen: false,
+    isOpen: true,
     check: "#vpirate",
     users: [],
 };
