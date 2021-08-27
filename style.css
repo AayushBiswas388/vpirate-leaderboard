@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
 
 body {
-    background-color: #cc801430;
+    background-color: #cc801460;
     font-family: "Poppins", sans-serif;
     display: flex;
     flex-direction: column;
@@ -12,12 +12,13 @@ body {
 }
 
 h1 {
-    color: white;
+    color: black;
     font-weight: 500;
 }
 
 .leaderboard {
-    background-color: #cc801470;
+    background-color: #cc8014
+;
     border-radius: 5px;
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
     font-weight: 500;
